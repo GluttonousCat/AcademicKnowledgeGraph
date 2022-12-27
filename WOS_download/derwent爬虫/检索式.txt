@@ -1,0 +1,148 @@
+cu=usa and su=Architecture
+cu=usa and su=Agriculture
+cu=usa and su=Astronomy & Astrophysics
+cu=usa and su=Archaeology
+cu=usa and su=Acoustics
+cu=usa and su=Art
+cu=usa and su=Allergy
+cu=usa and su=Chemistry
+cu=usa and su=Area Studies
+cu=usa and su=Automation & Control Systems
+cu=usa and su=Arts & Humanities Other Topics
+cu=usa and su=Anatomy & Morphology
+cu=usa and su=Crystallography
+cu=usa and su=Biomedical Social Sciences
+cu=usa and su=Computer Science
+cu=usa and su=Asian Studies
+cu=usa and su=Anesthesiology
+cu=usa and su=Electrochemistry
+cu=usa and su=Business & Economics
+cu=usa and su=Construction & Building Technology
+cu=usa and su=Classics
+cu=usa and su=Anthropology
+cu=usa and su=Geochemistry & Geophysics
+cu=usa and su=Communication
+cu=usa and su=Energy & Fuels
+cu=usa and su=Dance
+cu=usa and su=Audiology & Speech-Language Pathology
+cu=usa and su=Geology
+cu=usa and su=Criminology & Penology
+cu=usa and su=Engineering
+cu=usa and su=Behavioral Sciences
+cu=usa and su=Mathematics
+cu=usa and su=Cultural Studies
+cu=usa and su=Imaging Science & Photographic Technology
+cu=usa and su=History
+cu=usa and su=Biochemistry & Molecular Biology
+cu=usa and su=Meteorology & Atmospheric Sciences
+cu=usa and su=Information Science & Library Science
+cu=usa and su=History & Philosophy of Science
+cu=usa and su=Biodiversity & Conservation
+cu=usa and su=Mineralogy
+cu=usa and su=Instruments & Instrumentation
+cu=usa and su=Biophysics
+cu=usa and su=Mining & Mineral Processing
+cu=usa and su=Education & Educational Research
+cu=usa and su=Materials Science
+cu=usa and su=Biotechnology & Applied Microbiology
+cu=usa and su=Oceanography
+cu=usa and su=Ethnic Studies ----
+cu=usa and su=Mechanics
+cu=usa and su=Philosophy
+cu=usa and su=Cardiovascular System & Cardiology
+cu=usa and su=Optics
+cu=usa and su=Family Studies---
+cu=usa and su=Metallurgy & Metallurgical Engineering
+cu=usa and su=Religion-----
+cu=usa and su=Cell Biology
+
+cu=usa and su=Geography
+cu=usa and su=Microscopy  ------
+cu=usa and su=Theater     -----
+cu=usa and su=Critical Care Medicine -----
+cu=usa and su=Physics
+cu=usa and su=Government & Law  ----
+cu=usa and su=Nuclear Science & Technology
+cu=usa and su=Dentistry
+cu=usa and su=Polymer Science
+cu=usa and su=International Relations  ----
+cu=usa and su=Operations Research & Management Science
+cu=usa and su=Dermatology
+cu=usa and su=Thermodynamics
+cu=usa and su=Linguistics
+cu=usa and su=Remote Sensing
+cu=usa and su=Developmental Biology
+cu=usa and su=Water Resources
+cu=usa and su=Mathematical Methods In Social Sciences
+cu=usa and su=Robotics
+cu=usa and su=Emergency Medicine
+cu=usa and su=Psychology
+cu=usa and su=Science & Technology Other Topics
+cu=usa and su=Endocrinology & Metabolism
+cu=usa and su=Public Administration
+cu=usa and su=Spectroscopy
+cu=usa and su=Entomology
+cu=usa and su=Social Issues
+cu=usa and su=Telecommunications
+cu=usa and su=Environmental Sciences & Ecology
+cu=usa and su=Social Sciences Other Topics
+cu=usa and su=Transportation
+cu=usa and su=Evolutionary Biology
+cu=usa and su=Social Work  ----
+cu=usa and su=Fisheries
+cu=usa and su=Sociology --
+cu=usa and su=Food Science & Technology
+cu=usa and su=Urban Studies   ===310
+cu=usa and su=Forestry
+cu=usa and su=Women's Studies=---
+cu=usa and su=Gastroenterology & Hepatology
+cu=usa and su=General & Internal Medicine
+cu=usa and su=Genetics & Heredity
+cu=usa and su=Geriatrics & Gerontology
+cu=usa and su=Health Care Sciences & Services
+cu=usa and su=Hematology
+cu=usa and su=Immunology
+cu=usa and su=Infectious Diseases
+cu=usa and su=Integrative & Complementary Medicine ---
+cu=usa and su=Legal Medicine
+cu=usa and su=Life Sciences Biomedicine Other Topics
+cu=usa and su=Marine & Freshwater Biology
+cu=usa and su=Mathematical & Computational Biology
+cu=usa and su=Medical Ethics
+cu=usa and su=Medical Informatics
+cu=usa and su=Medical Laboratory Technology
+cu=usa and su=Microbiology
+cu=usa and su=Mycology ---
+cu=usa and su=Neurosciences & Neurology
+cu=usa and su=Nursing
+cu=usa and su=Nutrition & Dietetics
+cu=usa and su=Obstetrics & Gynecology
+cu=usa and su=Oncology
+cu=usa and su=Ophthalmology
+cu=usa and su=Orthopedics
+cu=usa and su=Otorhinolaryngology
+cu=usa and su=Paleontology
+cu=usa and su=Parasitology
+cu=usa and su=Pathology
+cu=usa and su=Pediatrics
+cu=usa and su=Pharmacology & Pharmacy
+cu=usa and su=Physiology
+cu=usa and su=Plant Sciences
+cu=usa and su=Psychiatry    19246
+cu=usa and su=Public     26360
+cu=usa and su=Radiology   18951
+cu=usa and su=Rehabilitation   4706
+cu=usa and su=Reproductive Biology  3733
+cu=usa and su=Research & Experimental Medicine  22633
+cu=usa and su=Respiratory System    18394
+cu=usa and su=Rheumatology   5346
+cu=usa and su=Sport Sciences   10118
+cu=usa and su=Substance Abuse   5493
+cu=usa and su=Surgery  45583
+cu=usa and su=Toxicology   6164
+cu=usa and su=Transplantation    8699
+cu=usa and su=Tropical Medicine  1998
+cu=usa and su=Urology & Nephrology  11142
+cu=usa and su=Veterinary Sciences 7556
+cu=usa and su=Virology 4443
+cu=usa and su=Zoology 9462

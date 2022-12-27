@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Engineering_Bilstm-CRF/.idea/Engineering_Bilstm-CRF.iml" filepath="$PROJECT_DIR$/../Engineering_Bilstm-CRF/.idea/Engineering_Bilstm-CRF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python学习/.idea/python学习.iml" filepath="$PROJECT_DIR$/../python学习/.idea/python学习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/学科论文分析器.iml" filepath="$PROJECT_DIR$/.idea/学科论文分析器.iml" />
+    </modules>
+  </component>
+</project>
